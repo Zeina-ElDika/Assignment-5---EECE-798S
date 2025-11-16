@@ -105,3 +105,10 @@ This project demonstrated how MCP principles translate to practical tool integra
 A notable challenge was uninstalling the unrelated reinforcement-learning `agents` package in Colab and installing the correct `openai-agents` package. Another challenge was handling asynchronous execution in Colab, which required using top-level `await` instead of `asyncio.run`. Future improvements include deploying each map server as a standalone MCP server and adding an interactive map visualization using Leaflet or MapLibre.
 
 ---
+
+## 7. Video Recording
+
+The full video demonstrating the agent and map servers is available here:
+
+https://drive.google.com/file/d/1DswQQOs5yfFARiI2yomH0NpWo73gMh9e/view?usp=drive_link
+
